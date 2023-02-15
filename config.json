@@ -7,16 +7,15 @@
     ],
     "standaloneList": [
         "HF_14ASNIFF",
-        "LF_SAMYRUN"
+        "LF_SAMYRUN",
+        "LF_EM4100EMUL",
+        "LF_EM4100RSWB",
+        "LF_EM4100RSWW",
+        "LF_EM4100RWC"
     ],
-    "//": "parameter for all firmware, leave it blank to use the default value",
     "PLATFORM": "PM3GENERIC",
-    "//": "parameter for all firmware, leave it blank to use the default value",
     "PLATFORM_EXTRAS": "",
-    "//": "parameter for all firmware, empty(default), 256 or 512",
     "PLATFORM_SIZE": "",
-    "//": "extra options will be defined as xxx=1",
     "extraOptions": [],
-    "//": "if you need the S19 file, set it to true",
     "buildS19": true
 }
